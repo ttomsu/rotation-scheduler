@@ -1,10 +1,20 @@
 shifts:
-- startDate: Fri 03 Apr 2020
-  user: abc
-- startDate: Fri 10 Apr 2020
-  user: lmn
-- startDate: Fri 17 Apr 2020
+- startDate: Wed 22 Apr 2020
   user: xyz
-- startDate: Fri 24 Apr 2020
-  stopDate: Thu 30 Apr 2020
+- startDate: Wed 29 Apr 2020
   user: abc
+- startDate: Wed 06 May 2020
+  user: xyz
+- startDate: Wed 13 May 2020
+  user: abc
+- startDate: Wed 20 May 2020
+  user: xyz
+- startDate: Wed 27 May 2020
+  user: abc
+- startDate: Wed 03 Jun 2020
+  user: xyz
+- startDate: Wed 10 Jun 2020
+  user: abc
+- startDate: Wed 17 Jun 2020
+  stopDate: Tue 23 Jun 2020
+  user: xyz
